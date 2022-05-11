@@ -3,3 +3,7 @@
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mahar" group-title="Myanmar TV" tvg-logo="https://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png", Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1652259632~acl=/*~hmac=a4d37dc0b9ad494e628338189cfc856a5d8c58f971b36e7447e379313e802fc2
+#EXTINF:-1 tvg-id="" tvg-name="MRTV-4" group-title="Myanmar TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png", MRTV-4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel-7" group-title="Myanmar TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png", Channel-7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
