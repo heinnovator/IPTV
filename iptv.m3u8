@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="Mahar Bawdhi" group-title="TV" tvg-logo="https://lh3.googleusercontent.com/odEgtkHkKfwHiIQX_vNoUvPKFZPBf8dLh-vZjk50NB4_9sL3rMJDDdWCmgPzDiWNaZTl", Mahar Bawdhi
+#EXTINF:-1 tvg-id="" tvg-name="Mahar Bawdhi" group-title="Myanmar TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png", Mahar Bawdhi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mahar" group-title="TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyy9oHZz6Qo6oK2XlSdvPUFAgidr8_qZzXkYg=s900-c-k-c0xffffffff-no-rj-mo", Mahar
+#EXTINF:-1 tvg-id="" tvg-name="Mahar" group-title="Myanmar TV" tvg-logo="https://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png", Mahar
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8?hdnts=exp=1652259632~acl=/*~hmac=a4d37dc0b9ad494e628338189cfc856a5d8c58f971b36e7447e379313e802fc2
