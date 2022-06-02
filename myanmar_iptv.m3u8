@@ -9,3 +9,9 @@ https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southea
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNTV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar TV",MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/ChannelK_Myanmar.png/revision/latest/scale-to-width-down/1000?cb=20191211065312" group-title="Myanmar TV",Channel K
+https://streammain.myanmartvchannels.com:999/website-channelk-stream239856/website-channelk-stream239856/chunks.m3u8?nimblesessionid=2158082&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgMTA6MzA6MzggQU0maGFzaF92YWx1ZT1iZ2ZadWpUdDRpM083MUg0dm81WWFRPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTU5
+#EXTINF:-1 tvg-id="" tvg-name="Mizzima TV" tvg-logo="https://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="Myanmar TV",Mizzima TV
+https://streammain.myanmartvchannels.com:999/website-mizzima-stream239858/website-mizzima-stream239858/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgMTA6MzQ6MDAgQU0maGFzaF92YWx1ZT1yM0tyMlpiN1IzODVBd1JyZXd5MUdnPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTU3
+#EXTINF:-1 tvg-id="" tvg-name="DVB" tvg-logo="http://burmese.dvb.no/wp-content/themes/inoforest/dist/img/logo.png" group-title="Myanmar TV",DVB
+https://stream-05.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeB2kd7SHRd3K2LbVas4Rxs1wmCLhUDNv6j3wWLpGKj2K)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1
