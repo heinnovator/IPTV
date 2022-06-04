@@ -7,7 +7,7 @@ https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel-7" group-title="Myanmar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest/scale-to-width-down/1000?cb=20191211065313", Channel-7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNTV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar TV",MNTV
+#EXTINF:-1 tvg-id="" tvg-name="MNTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mntv.png/revision/latest?cb=20220604141903" group-title="Myanmar TV",MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/ChannelK_Myanmar.png/revision/latest/scale-to-width-down/1000?cb=20191211065312" group-title="Myanmar TV",Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
