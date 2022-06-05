@@ -13,6 +13,20 @@
     <title>အချစ်၏ဘေးထွက်ဆိုးကျိုးများ</title>
     <desc></desc>
   </programme>
+  <channel id="mahar">
+  </channel>
+  <programme channel="mahar" start="20220605163000 +0630" stop="20220605190000 +0630">
+    <title>အလွမ်းတိုင်းမရပ်တဲ့ သံယောဇဥ်ရထား</title>
+    <desc></desc>
+  </programme>
+  <programme channel="mahar" start="20220605190000 +0630" stop="20220605213000 +0630">
+    <title>နောင်ဘယ်တော့မှ..မမုန်း</title>
+    <desc></desc>
+  </programme>
+  <programme channel="mahar" start="20220606060000 +0630" stop="20220606073000 +0630">
+    <title>မဟာတရားတော်</title>
+    <desc></desc>
+  </programme>
   <channel id="channelk">
   </channel>
   <programme channel="channelk" start="20220605154500 +0630" stop="20220605180000 +0630">
