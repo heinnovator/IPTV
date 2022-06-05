@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz">
-  
   <channel id="mahar">
   </channel>
   <programme channel="mahar" start="20220605163000 +0630" stop="20220605190000 +0630">
@@ -14,7 +13,6 @@
     <title>အချစ်၏ဘေးထွက်ဆိုးကျိုးများ</title>
     <desc></desc>
   </programme>
-  
   <channel id="channelk">
   </channel>
   <programme channel="channelk" start="20220605154500 +0630" stop="20220605180000 +0630">
@@ -49,5 +47,4 @@
     <title>ရင်ထဲကဒဏ္ဍာရီ (အပိုင်း-၃)</title>
     <desc></desc>
   </programme>
-  
 </tv>
