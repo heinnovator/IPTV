@@ -15,16 +15,16 @@
   </programme>
   <channel id="channelk">
   </channel>
-  <programme channel="channelk" start="20220605163000 +0630" stop="20220605190000 +0630">
-    <title>အလွမ်းတိုင်းမရပ်တဲ့ သံယောဇဥ်ရထား</title>
+  <programme channel="channelk" start="20220605154500 +0630" stop="20220605180000 +0630">
+    <title>Shin Gozilla</title>
     <desc></desc>
   </programme>
-  <programme channel="channelk" start="20220605190000 +0630" stop="20220605213000 +0630">
-    <title>နောင်ဘယ်တော့မှ..မမုန်း</title>
+  <programme channel="channelk" start="20220605180000 +0630" stop="20220605190000 +0630">
+    <title>အဆိပ်မယ်ရဲ့ချစ်ခရီးလမ်း (အပိုင်း-၁၄)</title>
     <desc></desc>
   </programme>
-  <programme channel="channelk" start="20220605213000 +0630" stop="20220605233000 +0630">
-    <title>အချစ်၏ဘေးထွက်ဆိုးကျိုးများ</title>
+  <programme channel="channelk" start="20220605180000 +0630" stop="20220605185000 +0630">
+    <title>ရင်ထဲကဒဏ္ဍာရီ (အပိုင်း-၃)</title>
     <desc></desc>
   </programme>
 </tv>
