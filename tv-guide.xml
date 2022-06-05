@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz">
   <channel id="mahar">
   </channel>
-  <programme channel="mahar" start="20220605163000 +0630" stop="202206050190000 +0630">
+  <programme channel="mahar" start="20220605163000 +0630" stop="20220605190000 +0630">
     <title>အလွမ်းတိုင်းမရပ်တဲ့ သံယောဇဥ်ရထား</title>
     <desc></desc>
   </programme>
-  <programme channel="mahar" start="20220605190000 +0630" stop="202206050213000 +0630">
+  <programme channel="mahar" start="20220605190000 +0630" stop="20220605213000 +0630">
     <title>နောင်ဘယ်တော့မှ..မမုန်း</title>
+    <desc></desc>
+  </programme>
+  <programme channel="mahar" start="20220605213000 +0630" stop="20220605233000 +0630">
+    <title>အချစ်၏ဘေးထွက်ဆိုးကျိုးများ</title>
     <desc></desc>
   </programme>
 </tv>
