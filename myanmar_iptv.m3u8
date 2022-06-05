@@ -1,15 +1,15 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="Mahar Bawdhi" group-title="Myanmar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest/scale-to-width-down/300?cb=20191211065314", Mahar Bawdhi
+#EXTINF:-1 channel-id="maharbawdhi" tvg-id="maharbawdhi" tvg-name="Mahar Bawdhi" group-title="Myanmar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest/scale-to-width-down/300?cb=20191211065314", Mahar Bawdhi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mahar" group-title="Myanmar TV" tvg-logo="https://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png", Mahar
+#EXTINF:-1 channel-id="mahar" tvg-id="mahar" tvg-name="Mahar" group-title="Myanmar TV" tvg-logo="https://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MRTV-4" group-title="Myanmar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MRTV-4.png/revision/latest?cb=20220604135321", MRTV-4
+#EXTINF:-1 channel-id="mrtv4" tvg-id="mrtv4" tvg-name="MRTV-4" group-title="Myanmar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MRTV-4.png/revision/latest?cb=20220604135321", MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel-7" group-title="Myanmar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest/scale-to-width-down/1000?cb=20191211065313", Channel-7
+#EXTINF:-1 channel-id="channel7" tvg-id="channel7" tvg-name="Channel-7" group-title="Myanmar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest/scale-to-width-down/1000?cb=20191211065313", Channel-7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mntv.png/revision/latest?cb=20220604141903" group-title="Myanmar TV",MNTV
+#EXTINF:-1 channel-id="mntv" tvg-id="mntv" tvg-name="MNTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mntv.png/revision/latest?cb=20220604141903" group-title="Myanmar TV",MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/ChannelK_Myanmar.png/revision/latest/scale-to-width-down/1000?cb=20191211065312" group-title="Myanmar TV",Channel K
+#EXTINF:-1 channel-id="channelk" tvg-id="channelk" tvg-name="Channel K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/ChannelK_Myanmar.png/revision/latest/scale-to-width-down/1000?cb=20191211065312" group-title="Myanmar TV",Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DVB" tvg-logo="http://burmese.dvb.no/wp-content/themes/inoforest/dist/img/logo.png" group-title="Myanmar TV",DVB
+#EXTINF:-1 channel-id="dvb" tvg-id="dvb" tvg-name="DVB" tvg-logo="http://burmese.dvb.no/wp-content/themes/inoforest/dist/img/logo.png" group-title="Myanmar TV",DVB
 https://stream-05.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeBJ04rwVIPWvGFgXc0JUcLilxff8Qfi33fCm_uPXwDc5)/dm/3/x852wwl/s/live-1.m3u8#cell=lsg1
